@@ -8,7 +8,7 @@ public class Star12 {
         System.out.print("Masukkan nilai N = ");
         int N = sc.nextInt();
 
-        // looping * sebangak N
+        // looping * sebanyak N
         for (int i = 1; i <= N; i++) {
             System.out.print("*");
         }
